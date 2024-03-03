@@ -1,22 +1,7 @@
-#PGlife# 
+## PROJECT TITLE:-
+**PG LIFE WEBPAGE**
 
-
-Welcome to PGlife, your one-stop solution for student housing management! Our website is fully functional and ready for deployment on your web server. Please follow the instructions below for a seamless experience:
-
-Step 1: Watch Our Comprehensive Setup Video
-For a detailed demonstration on how to set up the entire project, please watch our full video tutorial on our YouTube channel. In this video, we provide a step-by-step guide on how to get started.
-
-Video link: https://youtu.be/A04U_LK6IkU?si=x9UDf096ZkvunBRo
-
-Step 2: Get the Essential Components
-
-To get started, you'll need two crucial components:
-
-a) GitHub Repository
-We've provided a GitHub repository that contains all the code and files necessary for your PGlife project. You can find it right here on this page.
-
-b) Database Management System (DBMS)
-Our Database Management System is hosted separately on Google Drive. To access the database file, please refer to the link in the YouTube video description.
-
-
-Please feel free to let me know if you have any further revisions or specific changes you'd like to make.
+## PROJECT DESCRIPTION
+* PG Life is a Full-Stack Web Application. I was given this project to complete as part of my training for a course in full-stack web development at Internshala. After receiving the advice, I developed this web application using my understanding, knowledge, and experience. It is tailored, in my opinion, to what would be better functions in this software from the user's standpoint of the user.
+* The web application functions flawlessly on all devices and is entirely responsive.
+* Skills Used:- HTML, CSS, Bootstrap 5, Javascript, PHP, MySQL
